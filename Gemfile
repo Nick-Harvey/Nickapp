@@ -27,7 +27,7 @@ source 'https://rubygems.org'                             # This tells Bundler w
 gem 'awestruct', '>= 0.5.7'                               # Goes without saying
 gem 'webrick', '~> 1.3.1'                                 # The rack webserver to use in dev mode
 
-gem 'bootstrap-sass', '>= 3.2.0.2, ~> 3'
+gem 'bootstrap-sass' 
 gem 'compass', '>= 1.0.1'
 
 # FIXME
